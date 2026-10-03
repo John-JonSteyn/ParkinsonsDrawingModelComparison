@@ -1,0 +1,805 @@
+{
+  "images": 594,
+  "decoded_duplicate_groups": 36,
+  "reencoded_identical_pairs": 0,
+  "decoded_duplicate_pairs": [
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "mea1-P1.jpg",
+      "second_file": "mea1-P4.jpg",
+      "decoded_checksum": "94099f16dc2206278aaaf7556caa7ced9153b33106692dcfdc7427c556da72a7",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "mea1-P1.jpg",
+      "second_file": "mea1-P25.jpg",
+      "decoded_checksum": "94099f16dc2206278aaaf7556caa7ced9153b33106692dcfdc7427c556da72a7",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "mea2-P1.jpg",
+      "second_file": "mea2-P4.jpg",
+      "decoded_checksum": "b2e530f88abd3faaf6a9cf48cb31c03d18cd48e26ef35527c517bd7b18729f38",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "mea2-P1.jpg",
+      "second_file": "mea2-P25.jpg",
+      "decoded_checksum": "b2e530f88abd3faaf6a9cf48cb31c03d18cd48e26ef35527c517bd7b18729f38",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "mea3-P1.jpg",
+      "second_file": "mea3-P4.jpg",
+      "decoded_checksum": "4e74c9ca021790352463407ddc50449839e830bd0e3c7e4c94ffb387e422d35a",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "mea3-P1.jpg",
+      "second_file": "mea3-P25.jpg",
+      "decoded_checksum": "4e74c9ca021790352463407ddc50449839e830bd0e3c7e4c94ffb387e422d35a",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "mea4-P1.jpg",
+      "second_file": "mea4-P4.jpg",
+      "decoded_checksum": "c3b86fb1cba4d23d2b3647841f143dfb281f46b399107a56532d519ccc3cbb9e",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "mea4-P1.jpg",
+      "second_file": "mea4-P25.jpg",
+      "decoded_checksum": "c3b86fb1cba4d23d2b3647841f143dfb281f46b399107a56532d519ccc3cbb9e",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "sp1-P1.jpg",
+      "second_file": "sp1-P4.jpg",
+      "decoded_checksum": "0b9280048f362a9525bb9cf24913cd2f249ca761215ff348632d78b514970bce",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "sp1-P1.jpg",
+      "second_file": "sp1-P25.jpg",
+      "decoded_checksum": "0b9280048f362a9525bb9cf24913cd2f249ca761215ff348632d78b514970bce",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "sp2-P1.jpg",
+      "second_file": "sp2-P4.jpg",
+      "decoded_checksum": "efe4e33b284289ec19a9879ec4797b5ffad7b543bb92b5b359e2a843c2464191",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "sp2-P1.jpg",
+      "second_file": "sp2-P25.jpg",
+      "decoded_checksum": "efe4e33b284289ec19a9879ec4797b5ffad7b543bb92b5b359e2a843c2464191",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "sp3-P1.jpg",
+      "second_file": "sp3-P4.jpg",
+      "decoded_checksum": "3c9f6c66ce10bee415fda54eab332120baef5e451e7ff7c95eca98b2484e623c",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "sp3-P1.jpg",
+      "second_file": "sp3-P25.jpg",
+      "decoded_checksum": "3c9f6c66ce10bee415fda54eab332120baef5e451e7ff7c95eca98b2484e623c",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-04",
+      "first_file": "sp4-P1.jpg",
+      "second_file": "sp4-P4.jpg",
+      "decoded_checksum": "2024c6780bf41e48293216b900f92eac7262640472eacc81b7607f26af021513",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-01",
+      "second_participant": "pd-25",
+      "first_file": "sp4-P1.jpg",
+      "second_file": "sp4-P25.jpg",
+      "decoded_checksum": "2024c6780bf41e48293216b900f92eac7262640472eacc81b7607f26af021513",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "mea1-P2.jpg",
+      "second_file": "mea1-P26.jpg",
+      "decoded_checksum": "90154cb12e7219eb47c211b87c2eae8b9b7ee3d9b4dfffdd82903391b80dde19",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "mea2-P2.jpg",
+      "second_file": "mea2-P26.jpg",
+      "decoded_checksum": "67c1f376b6ca5633992573168f58ae814b135ba2e5d3d31edf61ee452439aadf",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "mea3-P2.jpg",
+      "second_file": "mea3-P26.jpg",
+      "decoded_checksum": "f6039d6b1a936263b86d2432feab4cd3171643ee143f1038b36f459d03dcdead",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "mea4-P2.jpg",
+      "second_file": "mea4-P26.jpg",
+      "decoded_checksum": "d77b2a5d370085feaa34f895a8187e59ce3abf411aae30ab6042b3fa485b2040",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "sp1-P2.jpg",
+      "second_file": "sp1-P26.jpg",
+      "decoded_checksum": "f950c3bafe4dd9408afe52a9e0fcdc4993829d0c74b3ad7d5376b96f6cb7a30e",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "sp2-P2.jpg",
+      "second_file": "sp2-P26.jpg",
+      "decoded_checksum": "24c855e8ac19210b47fceb2eb4fbd076ae81cf87bf252300236a60bd3ffdb9fb",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "sp3-P2.jpg",
+      "second_file": "sp3-P26.jpg",
+      "decoded_checksum": "70de233a10960eb8c9fda8a5c68b28913ed7081ee0f9b86eb1632f655bec30e4",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-02",
+      "second_participant": "pd-26",
+      "first_file": "sp4-P2.jpg",
+      "second_file": "sp4-P26.jpg",
+      "decoded_checksum": "82414b8c4c342c277434455fa4583bbd457061c9975df89dcad4e4d5f6fee5a3",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "mea1-P4.jpg",
+      "second_file": "mea1-P25.jpg",
+      "decoded_checksum": "94099f16dc2206278aaaf7556caa7ced9153b33106692dcfdc7427c556da72a7",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "mea2-P4.jpg",
+      "second_file": "mea2-P25.jpg",
+      "decoded_checksum": "b2e530f88abd3faaf6a9cf48cb31c03d18cd48e26ef35527c517bd7b18729f38",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "mea3-P4.jpg",
+      "second_file": "mea3-P25.jpg",
+      "decoded_checksum": "4e74c9ca021790352463407ddc50449839e830bd0e3c7e4c94ffb387e422d35a",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "mea4-P4.jpg",
+      "second_file": "mea4-P25.jpg",
+      "decoded_checksum": "c3b86fb1cba4d23d2b3647841f143dfb281f46b399107a56532d519ccc3cbb9e",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "sp1-P4.jpg",
+      "second_file": "sp1-P25.jpg",
+      "decoded_checksum": "0b9280048f362a9525bb9cf24913cd2f249ca761215ff348632d78b514970bce",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "sp2-P4.jpg",
+      "second_file": "sp2-P25.jpg",
+      "decoded_checksum": "efe4e33b284289ec19a9879ec4797b5ffad7b543bb92b5b359e2a843c2464191",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "sp3-P4.jpg",
+      "second_file": "sp3-P25.jpg",
+      "decoded_checksum": "3c9f6c66ce10bee415fda54eab332120baef5e451e7ff7c95eca98b2484e623c",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-04",
+      "second_participant": "pd-25",
+      "first_file": "sp4-P4.jpg",
+      "second_file": "sp4-P25.jpg",
+      "decoded_checksum": "2024c6780bf41e48293216b900f92eac7262640472eacc81b7607f26af021513",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-09",
+      "second_participant": "pd-27",
+      "first_file": "mea1-P9.jpg",
+      "second_file": "mea1-P27.jpg",
+      "decoded_checksum": "179f386cbfbf2d4b5afb328f5f493ed18bdf7351ea0d1882d60a4955e32b21cf",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-09",
+      "second_participant": "pd-27",
+      "first_file": "mea2-P9.jpg",
+      "second_file": "mea2-P27.jpg",
+      "decoded_checksum": "2dfd9ae879548089af600dd14fa420ab34c3f179fbd361ea6e5263f111db1eee",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-09",
+      "second_participant": "pd-27",
+      "first_file": "mea3-P9.jpg",
+      "second_file": "mea3-P27.jpg",
+      "decoded_checksum": "021b22490067b32b58ec8523db4b163395ba173f7afede78d718767ac8ae9dcb",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-09",
+      "second_participant": "pd-27",
+      "first_file": "mea4-P9.jpg",
+      "second_file": "mea4-P27.jpg",
+      "decoded_checksum": "dfde40ec7dd451127633997516a00f6f3815d3d11654e73058455376dd25dd99",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "mea1-P13.jpg",
+      "second_file": "mea1-P15.jpg",
+      "decoded_checksum": "955d68c2bed3b1b1efbaf39356d969d2ad6d2c85b4d6ff715c4fc4ccb5467fe0",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "mea2-P13.jpg",
+      "second_file": "mea2-P15.jpg",
+      "decoded_checksum": "e48be34bd8d1105f52bb226829ca97a91c4670cce6ce3f61cd4e3f0076d9ba1a",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "mea3-P13.jpg",
+      "second_file": "mea3-P15.jpg",
+      "decoded_checksum": "94d6a38b57a7ce71b2989da10223db4857e6cb3dac57f273058ebd0069212ee4",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "mea4-P13.jpg",
+      "second_file": "mea4-P15.jpg",
+      "decoded_checksum": "119342c2a8edac73f7071761c812065c01872c9a976087660a10ebcfe2db4a8b",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "sp1-P13.jpg",
+      "second_file": "sp1-P15.jpg",
+      "decoded_checksum": "3f58213f40209e00da8672128f081b56077cea948d27a4002deef209f6c0441a",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "sp2-P13.jpg",
+      "second_file": "sp2-P15.jpg",
+      "decoded_checksum": "20480613e80cb767e8958757e7e64886820c0e94be2a478c8b58d92308473858",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "sp3-P13.jpg",
+      "second_file": "sp3-P15.jpg",
+      "decoded_checksum": "9b831a7543745e24b82a4a11e1284c0849feceac8fd320dba009caf985f81238",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-13",
+      "second_participant": "pd-15",
+      "first_file": "sp4-P13.jpg",
+      "second_file": "sp4-P15.jpg",
+      "decoded_checksum": "851464c1bd0f7a12fe183cc6de997e5d9e743ce7bab2e242f312b30d78490dbe",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "mea1-P14.jpg",
+      "second_file": "mea1-P16.jpg",
+      "decoded_checksum": "304536db6deb3a261ddb83f86fe7d0ee0f1a35d8338f706719025dda9aaefe07",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "mea2-P14.jpg",
+      "second_file": "mea2-P16.jpg",
+      "decoded_checksum": "287a728e951203fc349bcdbf28935c5c5fc8ccfe8373bb77ae9e82ae130bb6c4",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "mea3-P14.jpg",
+      "second_file": "mea3-P16.jpg",
+      "decoded_checksum": "b298f6ae8f9789d320dce127c4069823a2bd6e4bfa7ad1c1e89b93512949e8a9",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "mea4-P14.jpg",
+      "second_file": "mea4-P16.jpg",
+      "decoded_checksum": "264c28d24637b949cdfd6fb43d5febea50459be8d6373e7b1aaf786da61bf716",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "sp1-P14.jpg",
+      "second_file": "sp1-P16.jpg",
+      "decoded_checksum": "5c7f8f0d4d6f2e8e19c62bd6019cee04792a7c6881c63da9004434c58bedf043",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "sp2-P14.jpg",
+      "second_file": "sp2-P16.jpg",
+      "decoded_checksum": "3e1fd2c7d98e089225cdf92e61a4b8697d5393c5b8318cb94df5981ccfa5e25d",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "sp3-P14.jpg",
+      "second_file": "sp3-P16.jpg",
+      "decoded_checksum": "52b1d781cdc0b44b6af253eb732f6ba8421f50ee549af2f5f5f93bc5de52ed6b",
+      "same_file_checksum": true,
+      "same_split_group": true
+    },
+    {
+      "first_participant": "pd-14",
+      "second_participant": "pd-16",
+      "first_file": "sp4-P14.jpg",
+      "second_file": "sp4-P16.jpg",
+      "decoded_checksum": "4984ef685f9ac534548f76cebdec43ca4d5cf3e8c99e8e8fc066faae50f5ab14",
+      "same_file_checksum": true,
+      "same_split_group": true
+    }
+  ],
+  "near_duplicate_candidates": [
+    {
+      "first_participant": "healthy-16",
+      "second_participant": "healthy-18",
+      "first_file": "mea3-H16.jpg",
+      "second_file": "mea3-H18.jpg",
+      "task": "mea3",
+      "first_checksum": "6381d7fc36820e58f4fc489ea076503866dad76b722b30b3853d5671d4e77f02",
+      "second_checksum": "30f65346d3e9c59513eebedbbe93efc54bde12fd383edd664ba8ddf593ca21ad",
+      "differing_hash_bits": 7,
+      "mean_pixel_difference": 0.038916971534490585,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-16",
+      "second_participant": "healthy-31",
+      "first_file": "sp3-H16.jpg",
+      "second_file": "sp3-H31.jpg",
+      "task": "sp3",
+      "first_checksum": "a24b1042f2fc1ceb118c9b125b4cb64f51b5e0f093593ef9133f54d877f240c5",
+      "second_checksum": "7746d099fef49d6a220c86ad83d58838072c6c3a1e6fd13c136a6d3b21adbbff",
+      "differing_hash_bits": 9,
+      "mean_pixel_difference": 0.03733149543404579,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-18",
+      "second_participant": "healthy-21",
+      "first_file": "mea2-H18.jpg",
+      "second_file": "mea2-H21.jpg",
+      "task": "mea2",
+      "first_checksum": "23ec451a396643700f8a2b4ca45f7dd690e61414f7c7fa7b68b051a21935f9e8",
+      "second_checksum": "9103b500329db5432c5610a20a11cdf02b6729b580c571ead371844024d200d9",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03617493808269501,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-18",
+      "second_participant": "healthy-32",
+      "first_file": "sp2-H18.jpg",
+      "second_file": "sp2-H32.jpg",
+      "task": "sp2",
+      "first_checksum": "4e57dce7a34bfcf68e1f0f1d4ea00ff56ad854c541286bdd0832d416cb66dbf3",
+      "second_checksum": "abeb2b99e50a7853e0f37dcf9033f3adbb3b46f9f07064ee05cdbd9453c73106",
+      "differing_hash_bits": 10,
+      "mean_pixel_difference": 0.03994140774011612,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-18",
+      "second_participant": "healthy-20",
+      "first_file": "sp4-H18.jpg",
+      "second_file": "sp4-H20.jpg",
+      "task": "sp4",
+      "first_checksum": "8391a982d334d9f8cadf7936b2c49370bdfce222d10de934bd256d8e36d8dc08",
+      "second_checksum": "f3da7ccb669e6f049dc63e28e2093288df4ce102ab19b7126d425b55cd025417",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03809646517038345,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-19",
+      "second_participant": "healthy-23",
+      "first_file": "mea1-H19.jpg",
+      "second_file": "mea1-H23.jpg",
+      "task": "mea1",
+      "first_checksum": "f16dc2a91d96811f19cb993debbd20450c20ab83759792cca40dcafc7705d76a",
+      "second_checksum": "ef38000509b9ca926aa3503bee99366496d436057fe2d1385fbc297cc57b59a5",
+      "differing_hash_bits": 10,
+      "mean_pixel_difference": 0.039409082382917404,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-19",
+      "second_participant": "healthy-30",
+      "first_file": "mea2-H19.jpg",
+      "second_file": "mea2-H30.jpg",
+      "task": "mea2",
+      "first_checksum": "711b00223b04faa137e10c64caf729562431f69f6e3eba0d8d69bb737795e7c2",
+      "second_checksum": "0e8ba491b9aef5b8958f6bc050c26a53090d3940c48c66ae36f46c7a82af4a1c",
+      "differing_hash_bits": 6,
+      "mean_pixel_difference": 0.035620592534542084,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-19",
+      "second_participant": "healthy-33",
+      "first_file": "mea2-H19.jpg",
+      "second_file": "mea2-H33.jpg",
+      "task": "mea2",
+      "first_checksum": "711b00223b04faa137e10c64caf729562431f69f6e3eba0d8d69bb737795e7c2",
+      "second_checksum": "1291b91a9c1ada2d5a692f84908cea6fe8f41fd3f467dfe333738e1113ef64f7",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03337641432881355,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-19",
+      "second_participant": "healthy-29",
+      "first_file": "mea4-H19.jpg",
+      "second_file": "mea4-H29.jpg",
+      "task": "mea4",
+      "first_checksum": "b2c310cb9ee31b8efbc63aef8fcf967bb4bddbcf0bddd8ac5134e773dc31df9e",
+      "second_checksum": "6ae3d67adcb45fc63e637a12b9fabed4f3af02f19cba7292238db2a815e822dc",
+      "differing_hash_bits": 5,
+      "mean_pixel_difference": 0.03352481126785278,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-20",
+      "second_participant": "healthy-29",
+      "first_file": "mea3-H20.jpg",
+      "second_file": "mea3-H29.jpg",
+      "task": "mea3",
+      "first_checksum": "9bda1635620ce5939112a12db3adca6b3e0bccaa2925887054d678637b5ae2fd",
+      "second_checksum": "d80d25658e3b6c9c21380477d50c674b28868026630360f0c24c286c8692d478",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03378523141145706,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-21",
+      "second_participant": "healthy-34",
+      "first_file": "mea2-H21.jpg",
+      "second_file": "mea2-H34.jpg",
+      "task": "mea2",
+      "first_checksum": "9103b500329db5432c5610a20a11cdf02b6729b580c571ead371844024d200d9",
+      "second_checksum": "38a54344cae8f29ebb3260459279fe2263036763e14f200d533d17aef6c975c5",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03217294439673424,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-21",
+      "second_participant": "healthy-34",
+      "first_file": "mea3-H21.jpg",
+      "second_file": "mea3-H34.jpg",
+      "task": "mea3",
+      "first_checksum": "808fd7969303ee61eae36a03116a3297e112880e10f968afc99c664c61003e2a",
+      "second_checksum": "5391b8f3bba3e3fab7e94a0e47185a6ce074ac6a04983d2656e4b38993125e56",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03540613502264023,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-21",
+      "second_participant": "healthy-24",
+      "first_file": "mea4-H21.jpg",
+      "second_file": "mea4-H24.jpg",
+      "task": "mea4",
+      "first_checksum": "f30787ecab90d312b900b06541170db90256af9051d6f57e025cbee0f66b2c74",
+      "second_checksum": "a8686aff823a86acc2eae0f9d448a1e1659b482bf8a00b97c34db4eff782a87f",
+      "differing_hash_bits": 6,
+      "mean_pixel_difference": 0.030414175242185593,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-21",
+      "second_participant": "healthy-36",
+      "first_file": "sp2-H21.jpg",
+      "second_file": "sp2-H36.jpg",
+      "task": "sp2",
+      "first_checksum": "4b40d81ee07a1468f11f8146c18d3221412404772aee076cb80ea8bcbd478684",
+      "second_checksum": "18146055bdff8d39f31e4568f696bdfc5285489266ebc82544a746a953583658",
+      "differing_hash_bits": 10,
+      "mean_pixel_difference": 0.032636336982250214,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-21",
+      "second_participant": "healthy-29",
+      "first_file": "sp3-H21.jpg",
+      "second_file": "sp3-H29.jpg",
+      "task": "sp3",
+      "first_checksum": "cc366009917fd92e47b5e389269f9fc17c197db4cadc34cb8215132bdc1357fa",
+      "second_checksum": "b1bd88107755ce0c2b98b296686d8c064be8fa5ed950775b5f06818dc0989d94",
+      "differing_hash_bits": 4,
+      "mean_pixel_difference": 0.039842791855335236,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-22",
+      "second_participant": "healthy-34",
+      "first_file": "sp4-H22.jpg",
+      "second_file": "sp4-H34.jpg",
+      "task": "sp4",
+      "first_checksum": "f99daf2f79139ffa79f4a3e010fb01921d423b59bf1254aaacf9f037a1de0dd9",
+      "second_checksum": "18b0b537fdab1ea1b4be97e08436e94b348c73cbbc2f117dacb4dc0cf8c49260",
+      "differing_hash_bits": 7,
+      "mean_pixel_difference": 0.03912472724914551,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-23",
+      "second_participant": "healthy-37",
+      "first_file": "mea1-H23.jpg",
+      "second_file": "mea1-H37.jpg",
+      "task": "mea1",
+      "first_checksum": "ef38000509b9ca926aa3503bee99366496d436057fe2d1385fbc297cc57b59a5",
+      "second_checksum": "0f5d3a27dd38fb3fcc147158aed14bede92ae6e0f2c617b6784f783f41b10881",
+      "differing_hash_bits": 9,
+      "mean_pixel_difference": 0.03749712556600571,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-23",
+      "second_participant": "healthy-30",
+      "first_file": "mea2-H23.jpg",
+      "second_file": "mea2-H30.jpg",
+      "task": "mea2",
+      "first_checksum": "bf6c90195487f688a7a882255b8849e13da6fceb478dc39529614cb96272864a",
+      "second_checksum": "0e8ba491b9aef5b8958f6bc050c26a53090d3940c48c66ae36f46c7a82af4a1c",
+      "differing_hash_bits": 7,
+      "mean_pixel_difference": 0.03729415312409401,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-23",
+      "second_participant": "healthy-30",
+      "first_file": "mea4-H23.jpg",
+      "second_file": "mea4-H30.jpg",
+      "task": "mea4",
+      "first_checksum": "47dde8a3520e088e2f8b4a9e21f2fe8fe9d09f633af829dfcafcfb3182c13b80",
+      "second_checksum": "20676af61759a741ab03109910b1af90663f99dd9fd43ffee9446da337898c9a",
+      "differing_hash_bits": 9,
+      "mean_pixel_difference": 0.03412415832281113,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-24",
+      "second_participant": "healthy-36",
+      "first_file": "sp3-H24.jpg",
+      "second_file": "sp3-H36.jpg",
+      "task": "sp3",
+      "first_checksum": "1d49ffcc85e3d6a04aa1392f5b6a232f5a1a756f0d4eca97e8a83fc6ed5d9026",
+      "second_checksum": "fcd4e4454b140e33be226eaa1ca4c4225a4000f4319d9d9d1cb621358d6059b5",
+      "differing_hash_bits": 7,
+      "mean_pixel_difference": 0.029202088713645935,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-24",
+      "second_participant": "healthy-32",
+      "first_file": "sp4-H24.jpg",
+      "second_file": "sp4-H32.jpg",
+      "task": "sp4",
+      "first_checksum": "9f7b52535354d9426a4d39c6b86b5236afc61fafe3048f2188c9b8b7a1f669bd",
+      "second_checksum": "1e14f19ae90d66bc4ef7b39da57ee11c559686fe8262de1b40cf5d4758091d95",
+      "differing_hash_bits": 8,
+      "mean_pixel_difference": 0.03343960642814636,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-30",
+      "second_participant": "healthy-37",
+      "first_file": "mea1-H30.jpg",
+      "second_file": "mea1-H37.jpg",
+      "task": "mea1",
+      "first_checksum": "e7df696fd895ed218c4ae2777ffd107da88433c89ce638bdb0358504d81842e2",
+      "second_checksum": "0f5d3a27dd38fb3fcc147158aed14bede92ae6e0f2c617b6784f783f41b10881",
+      "differing_hash_bits": 6,
+      "mean_pixel_difference": 0.03567133843898773,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-32",
+      "second_participant": "healthy-35",
+      "first_file": "sp4-H32.jpg",
+      "second_file": "sp4-H35.jpg",
+      "task": "sp4",
+      "first_checksum": "1e14f19ae90d66bc4ef7b39da57ee11c559686fe8262de1b40cf5d4758091d95",
+      "second_checksum": "63ef5e4fe7860a2dda7461a9c5698624e0efdf96f0cea9ef98f8f0e04cc792d1",
+      "differing_hash_bits": 9,
+      "mean_pixel_difference": 0.03267080336809158,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-33",
+      "second_participant": "healthy-36",
+      "first_file": "mea4-H33.jpg",
+      "second_file": "mea4-H36.jpg",
+      "task": "mea4",
+      "first_checksum": "2634cd4d03d3b068a8fcb6f3ad75522c777b55d35902d0691346ab8c0f7c11e2",
+      "second_checksum": "2265b010c0d44c1ca2c0680076fbcedc9ab1928f8668f91b1ad1ef23a22224cc",
+      "differing_hash_bits": 6,
+      "mean_pixel_difference": 0.038066789507865906,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    },
+    {
+      "first_participant": "healthy-33",
+      "second_participant": "healthy-34",
+      "first_file": "sp4-H33.jpg",
+      "second_file": "sp4-H34.jpg",
+      "task": "sp4",
+      "first_checksum": "b4c2a65f21a2c99d9893ec3ef418d0b97db15504f672c5dfd9185a85d3a58238",
+      "second_checksum": "18b0b537fdab1ea1b4be97e08436e94b348c73cbbc2f117dacb4dc0cf8c49260",
+      "differing_hash_bits": 6,
+      "mean_pixel_difference": 0.03859815001487732,
+      "review": "Distinct visible tracing deviations; shared template is not a duplicate.",
+      "reviewed": true
+    }
+  ],
+  "review_date": "2026-10-03",
+  "review_method": "Assistant visual inspection of paired original-colour thumbnails; no additional duplicates confirmed.",
+  "limitations": "Heuristic same-task shortlist only; not an exhaustive near-duplicate detector or confirmation of participant identity."
+}
