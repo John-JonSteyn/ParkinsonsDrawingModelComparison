@@ -1,10 +1,41 @@
+# Python environments and generated caches
 .venv/
+venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
 
-# Local dataset files
-data/
+# Local datasets, downloaded weights, training caches, logs and rebuilt figures
+/data/
+# Working copies restored from the notebook's embedded input records
+/annotations/
+/provenance/
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+
+# Incomplete downloads and temporary execution files
+*.partial
+*.tmp
+*.log
+
+# Local credentials; a documented example may be version controlled
+.env
+.env.*
+!.env.example
+
+# Result archives and generated figure runs stay local
+/results/
+/figures/runs/
 
 # Local editor and operating-system files
 .vscode/
